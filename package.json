@@ -10,7 +10,7 @@
   "dependencies": {
     "babel-runtime": "^6.26.0",
     "core-js": "^2.6.5",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "reveal.js": "^3.8.0",
     "vue": "^2.6.10"
   },
